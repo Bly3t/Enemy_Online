@@ -1,0 +1,7 @@
+obj
+obj/
+*.dll
+*.exe
+./vs
+vs
+vs/
