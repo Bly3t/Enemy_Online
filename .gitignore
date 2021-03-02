@@ -5,3 +5,11 @@ obj/
 ./vs
 vs
 vs/
+.vs
+packages
+packages/
+Properties
+Properties/
+*.pdb
+*.config
+*.xml
